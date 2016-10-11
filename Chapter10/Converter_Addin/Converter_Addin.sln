@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter_Addin", "Converter_Addin\Converter_Addin.csproj", "{7A67B4F1-DB2A-4526-AB3D-D3B36BFDCB0C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Converter_AddinSetup", "Converter_AddinSetup\Converter_AddinSetup", "{3B7255A2-4F8E-40F2-AE91-5876FE139C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A67B4F1-DB2A-4526-AB3D-D3B36BFDCB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A67B4F1-DB2A-4526-AB3D-D3B36BFDCB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A67B4F1-DB2A-4526-AB3D-D3B36BFDCB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A67B4F1-DB2A-4526-AB3D-D3B36BFDCB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7255A2-4F8E-40F2-AE91-5876FE139C0B}.Debug|Any CPU.ActiveCfg = Debug
+		{3B7255A2-4F8E-40F2-AE91-5876FE139C0B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
